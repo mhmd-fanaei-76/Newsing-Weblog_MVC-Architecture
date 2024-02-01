@@ -1,0 +1,16 @@
+{
+    "name": "mohammad/news_web-log",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        },
+        "files": ["./src/Helpers/helper.php"]
+    },
+    "authors": [
+        {
+            "name": "mohammad",
+            "email": "mohammdfanaei031@gmail.com"
+        }
+    ],
+    "require": {}
+}
